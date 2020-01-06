@@ -54,6 +54,7 @@ In order to run the project after download the workspace, there are three steps 
 
 ***Screenshot 2: The application main page, after classifying the message, which the result appears below highlighted.***
 ![Screenshot 2](https://github.com/Sultan660/Disaster-Response-Project/blob/master/screenshot2.PNG)
+![Screenshot 3](https://github.com/Sultan660/Disaster-Response-Project/blob/master/screenshot3.PNG)
 
 ## Licensing<a name="licensing"></a>
 
