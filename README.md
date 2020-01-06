@@ -6,8 +6,8 @@ Project in Data Scientist Nanodegree of Udacity - Message Classification
 1. [Installation](#installation)
 2. [Project Overview](#overview)
 3. [File Descriptions](#files)
-4. [Implementation](#implementation)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+4. [Implementation Instructions](#implementation)
+5. [Licensing](#licensing)
 
 ## Installation <a name="installation"></a>
 This is a web application project built by HTML and Python version 3.* while it contains many python pachages such as pandas, ntlk, flask, numpy, re, pickle and so many. 
@@ -43,12 +43,12 @@ In order to run the project after download the workspace, there are three steps 
 
 ## Screenshots
 
-***Screenshot 1: App Front Page***
+***Screenshot 1: The application main page, where the user may enter a message to be classified.***
 ![Screenshot 1](https://github.com/Sultan660/Disaster-Response-Project/blob/master/screenshot1.PNG)
 
-***Screenshot 2: App Results Page***
+***Screenshot 2: The application main page, after classifying the message, which the result appears below highlighted.***
 ![Screenshot 2](https://github.com/Sultan660/Disaster-Response-Project/blob/master/screenshot2.PNG)
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Licensing<a name="licensing"></a>
 
 Licensing for the data is issued by Udacity and this project is made to fulfill an nanodegree requirement.
