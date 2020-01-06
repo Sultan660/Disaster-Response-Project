@@ -32,14 +32,20 @@ In order to run the project after download the workspace, there are three steps 
 	1. From the IDE Navigate to data.
 	2. Run "python process_data.py disaster_messages.csv disaster_categories.csv DisasterResponse.db"
 
+	This step is cleaning data and merging messages and categories datasets.
+
 ### Second: Create Learning Model.
 	1. From the IDE Navigate to models.
 	2. Run "python train_classifier.py ../data/DisasterResponse.db classifier.pkl"
+	
+	This step is creating the learning model.
 	
 ### Third: Run the Web App.
 	1. From the IDE Navigate to app.
 	2. Run "python run.py"
 	3. Go to http://0.0.0.0:3001/
+	
+	This step is to run the app.
 
 ## Screenshots
 
